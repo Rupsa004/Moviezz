@@ -1,2 +1,2 @@
 # Moviezz
-A front page of Movie website html css js 
+A front page of Movie website with html css & js 
